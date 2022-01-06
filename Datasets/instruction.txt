@@ -1,0 +1,2 @@
+1. The datasets can be downloaded using the Kaggle API: kaggle competitions download -c fdl21-fdl-dsba
+2. Please note the train images and masks should be split into train and validation sets to omply with the model
